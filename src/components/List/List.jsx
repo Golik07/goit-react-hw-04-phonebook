@@ -3,9 +3,6 @@ import Item from "./Item/Item"
 import PropTypes from "prop-types"
 
 
-
-
-
 const List = ({contacts,handleDelete}) => {
     return (
         <ul>
